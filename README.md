@@ -1,2 +1,2 @@
-# context-aware-vr-using-ble-beacons
-The repository contains the Android project as well as Unity project used in the Paper "Context aware VR using BLE beacons"
+# Context aware VR using BLE beacons
+The repository contains the Android project as well as Unity project developed for the Paper "Context aware VR using BLE beacons".
