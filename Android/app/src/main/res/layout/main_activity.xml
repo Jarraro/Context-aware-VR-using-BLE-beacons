@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--
+    This listView can be used to
+    display scan results for debugging
+    -->
+    <ListView
+        android:id="@+id/beaconsListview"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10" />
+
+
+    <Button
+        android:id="@+id/buttonScanPhy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_weight="1"
+        android:background="@color/colorPrimary"
+        android:text="@string/scan_phy"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/buttonScanNative"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_weight="1"
+        android:background="@color/colorPrimary"
+        android:text="@string/scan_native"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/buttonStop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_weight="1"
+        android:background="@color/colorPrimaryDark"
+        android:text="@string/stop_services"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>

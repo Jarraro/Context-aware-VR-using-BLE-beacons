@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\GitHub\thesis-beacon-plugin\BeaconPlugin.iml" filepath="C:\GitHub\thesis-beacon-plugin\BeaconPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\GitHub\thesis-beacon-plugin\app\app.iml" filepath="C:\GitHub\thesis-beacon-plugin\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beaconlibrary/beaconlibrary.iml" filepath="$PROJECT_DIR$/beaconlibrary/beaconlibrary.iml" />
+      <module fileurl="file://C:\GitHub\thesis-beacon-plugin\beaconlibrary\beaconlibrary.iml" filepath="C:\GitHub\thesis-beacon-plugin\beaconlibrary\beaconlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beaconreceiver/beaconreceiver.iml" filepath="$PROJECT_DIR$/beaconreceiver/beaconreceiver.iml" />
+      <module fileurl="file://C:\GitHub\thesis-beacon-plugin\beaconreceiver\beaconreceiver.iml" filepath="C:\GitHub\thesis-beacon-plugin\beaconreceiver\beaconreceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phy-sdk/phy-sdk.iml" filepath="$PROJECT_DIR$/phy-sdk/phy-sdk.iml" />
+      <module fileurl="file://C:\GitHub\thesis-beacon-plugin\phy-sdk\phy-sdk.iml" filepath="C:\GitHub\thesis-beacon-plugin\phy-sdk\phy-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thesis-beacon-plugin.iml" filepath="$PROJECT_DIR$/thesis-beacon-plugin.iml" />
+    </modules>
+  </component>
+</project>
